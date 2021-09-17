@@ -1,0 +1,366 @@
+{
+  "products": [
+    {
+      "name": "Easter Egg",
+      "category": "people",
+      "price": 3.89,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-rocketmann-team-9507105.jpg",
+        "alt": "Easter Egg"
+      },
+      "bestseller": true,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Pen Art",
+      "category": "people",
+      "price": 93.89,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-ann-h-1762851.jpg",
+        "alt": "Pen Art"
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Bed Leave",
+      "category": "people",
+      "price": 100,
+      "currency": "USD",
+      "image": {
+        "src": "pexels-daria-shevtsova-916339.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": null
+    },
+    {
+      "name": "Boy Skate",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "pexels-daria-shevtsova-916339.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Floor Skate",
+      "category": "landmarks",
+      "price": 11,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-darina-belonogova-7519677.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Paint Brush",
+      "category": "nature",
+      "price": 25,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-deeana-creates-1646953.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Cat woman",
+      "category": "people",
+      "price": 121,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-dmitriy-ganin-7716385.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Egg Hot",
+      "category": "food",
+      "price": 65,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-dmitry-zvolskiy-4108278.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Woman",
+      "category": "people",
+      "price": 76,
+      "currency": "USD",
+      "image": {
+        "src": "pexels-daria-shevtsova-916339.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Sunset",
+      "category": "nature",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-luizclas-556669.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Study",
+      "category": "people",
+      "price": 89,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-michael-burrows-7148029.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "White chair",
+      "category": "premium",
+      "price": 120,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-michael-burrows-7148031.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Tailor",
+      "category": "people",
+      "price": 43,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-michael-burrows-7148050.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Knitting",
+      "category": "cities",
+      "price": 79,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-miriam-alonso-7585742.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Trees",
+      "category": "nature",
+      "price": 95,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-oliver-sjöström-1005417.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Waterfall",
+      "category": "nature",
+      "price": 65,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-oliver-sjöström-1047051.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Man",
+      "category": "people",
+      "price": 107,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-pixabay-415188.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Egg Smiley",
+      "category": "food",
+      "price": 95,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-roman-odintsov-6898857.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+
+    {
+      "name": "Paint",
+      "category": "art",
+      "price": 95,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-steve-johnson-1585325.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": false,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        }
+      }
+    },
+    {
+      "name": "Samurai King Restling",
+      "category": "landmarks",
+      "price": 101,
+      "currency": "USD",
+      "image": {
+        "src": "/images/pexels-pixabay-159862.jpg",
+        "alt": ""
+      },
+      "bestseller": false,
+      "featured": true,
+      "details": {
+        "dimmentions": {
+          "width": 1020,
+          "height": 1020
+        },
+        "size": 15000,
+        "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely crambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
+        "recommendations": [
+          {
+            "src": "",
+            "alt": ""
+          },
+          {
+            "src": "",
+            "alt": ""
+          },
+          {
+            "src": "",
+            "alt": ""
+          }
+        ]
+      }
+    }
+  ]
+}
