@@ -32,7 +32,7 @@
       "price": 100,
       "currency": "USD",
       "image": {
-        "src": "pexels-daria-shevtsova-916339.jpg",
+        "src": "/images/pexels-daria-shevtsova-916339.jpg",
         "alt": ""
       },
       "bestseller": false,
@@ -45,7 +45,7 @@
       "price": 101,
       "currency": "USD",
       "image": {
-        "src": "pexels-daria-shevtsova-916339.jpg",
+        "src": "/images/pexels-daria-shevtsova-916339.jpg",
         "alt": ""
       },
       "bestseller": false,
@@ -135,7 +135,7 @@
       "price": 76,
       "currency": "USD",
       "image": {
-        "src": "pexels-daria-shevtsova-916339.jpg",
+        "src": "/images/pexels-daria-shevtsova-916339.jpg",
         "alt": ""
       },
       "bestseller": false,
@@ -348,15 +348,15 @@
         "description": "So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely crambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock, a 15th century typesetter likely scrambled part of Cicero's De Finibus in order to provide placeholder text to mockup various fonts for a type specimen book.So how did the classical Latin become so incoherent? According to McClintock.",
         "recommendations": [
           {
-            "src": "",
+            "src": "/images/pexels-pixabay-415188.jpg",
             "alt": ""
           },
           {
-            "src": "",
+            "src": "/images/pexels-roman-odintsov-6898857.jpg",
             "alt": ""
           },
           {
-            "src": "",
+            "src": "/images/pexels-steve-johnson-1585325.jpg",
             "alt": ""
           }
         ]
